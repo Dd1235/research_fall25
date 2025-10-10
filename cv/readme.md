@@ -1,0 +1,4 @@
+- go through previous notes in the tinkerwithcv repo, it was too big for my low storage macbook :( so using new repo
+- that has stuff on yolo, rcnn, detr, autoencoders etc.
+- i think the learn ai repo also has some of my notes scattered related to cv
+- really need consolidation
