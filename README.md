@@ -12,7 +12,6 @@ Paper short notes (summaries capturing the broad ideas without much technical de
 - [cv/mixtureOfNestedExperts.md](https://github.com/Dd1235/research_fall25/blob/main/cv/mixtureOfNestedExperts.md) - Short notes covering the Mixture of Nested Experts approach.
 - [cv/perceptionLangauageModels.md](https://github.com/Dd1235/research_fall25/blob/main/cv/perceptionLangauageModels.md) - Short notes summarizing the perception-language models overview.
 - [cv/yolo-nas.md](https://github.com/Dd1235/research_fall25/blob/main/cv/yolo-nas.md) - Short notes discussing the YOLO-NAS framework
-
 - [llm/grpo_rl.md](https://github.com/Dd1235/research_fall25/blob/main/llm/grpo_rl.md) - Short notes on the key ideas of GRPO
 
 For my reference only:
